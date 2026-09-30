@@ -29,11 +29,11 @@ The selected Rare Friend becomes the archer. The player shoots a moving target, 
 - SHOT button or key 2 — fire the arrow
 - JUMP button or key 3 — dodge ghosts
 - TOWER LASER button or key 1 — destroy asteroids
-- SHOP — buy, equip and sell items
-- PROFILE — inspect equipment, stats and cyber style
-- GUIDE — open rules and controls
-- MUTE — toggle audio
-- PAUSE — freeze gameplay while shop, mute and screenshot controls remain available
+- PAUSE button or key 4 or Space — freeze gameplay while shop, mute and screenshot controls remain available
+- MUTE button or key 5 or M — toggle audio
+- SHOP button or key 6 or S — buy, equip and sell items
+- PROFILE button or key 7 or P — inspect equipment, stats and cyber style
+- GUIDE button or key 8 or G — open rules and controls
 - X SHARE — generate scene snapshot and share text
 - Esc — close overlays
 
